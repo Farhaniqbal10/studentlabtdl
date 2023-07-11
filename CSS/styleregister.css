@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+    font-family: inherit;
+}
+.signup{
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    border-radius: 3px;
+}
+
+h2 {
+    text-align: right;
+}
+h1{
+    text-align: left;
+    padding: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+form input{
+    width: 300px;
+    padding: 7px;
+    border: 1px solid gray;
+    border-radius: 6px;
+
+}
+
+
+.buttonregis[type="button"]{
+    width: 350px;
+    height: 25px;
+    margin-right: 100px;
+    border: none;
+    background-color: gray;
+
+}
+
